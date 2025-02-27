@@ -1,0 +1,10 @@
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\obj\Debug\GestorAlumnosApp.Form1.resources
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\bin\Debug\Examen.exe.config
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\bin\Debug\Examen.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\bin\Debug\Examen.pdb
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\obj\Debug\Examen.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\EXAMEN\Examen\obj\Debug\Examen.pdb
