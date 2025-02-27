@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Sigfred\\Documents\\TERCER SEMESTRE\\PROGRAMACION ESTRUCTURADA Y VISUAL\\EXAMEN\\Examen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B49BA588-016A-4858-924F-4A6B6FE6A77C}|Examen.csproj|C:\\Users\\Sigfred\\Documents\\TERCER SEMESTRE\\PROGRAMACION ESTRUCTURADA Y VISUAL\\EXAMEN\\Examen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B49BA588-016A-4858-924F-4A6B6FE6A77C}|Examen.csproj|c:\\users\\sigfred\\documents\\tercer semestre\\programacion estructurada y visual\\examen\\examen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B49BA588-016A-4858-924F-4A6B6FE6A77C}|Examen.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B49BA588-016A-4858-924F-4A6B6FE6A77C}|Examen.csproj|c:\\users\\sigfred\\documents\\tercer semestre\\programacion estructurada y visual\\examen\\examen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B49BA588-016A-4858-924F-4A6B6FE6A77C}|Examen.csproj|C:\\Users\\Sigfred\\Documents\\TERCER SEMESTRE\\PROGRAMACION ESTRUCTURADA Y VISUAL\\EXAMEN\\Examen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B49BA588-016A-4858-924F-4A6B6FE6A77C}|Examen.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,8 +62,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAnwBIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T03:52:56.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T03:52:56.221Z"
             },
             {
               "$type": "Document",
@@ -101,8 +100,7 @@
               "RelativeToolTip": "IConsoleOutput.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T02:58:45.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T02:58:45.363Z"
             },
             {
               "$type": "Document",
@@ -114,8 +112,7 @@
               "RelativeToolTip": "ICalificacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T02:57:15.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T02:57:15.753Z"
             },
             {
               "$type": "Document",
@@ -127,8 +124,7 @@
               "RelativeToolTip": "GestorAlumnos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T02:56:40.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T02:56:40.711Z"
             },
             {
               "$type": "Document",
@@ -140,8 +136,7 @@
               "RelativeToolTip": "IAlumno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T02:55:17.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T02:55:17.984Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "IGestorAlumnos.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvw0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T02:54:35.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T02:54:35.312Z"
             },
             {
               "$type": "Document",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "Alumno.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T02:53:41.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T02:53:41.079Z"
             },
             {
               "$type": "Document",
